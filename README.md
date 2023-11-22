@@ -1,2 +1,2 @@
 # RNNs_Simple
-Experimenting with the RNN model
+Experimenting with the RNN model use TensorFlow 
